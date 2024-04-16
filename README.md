@@ -1,3 +1,3 @@
 # desenvolve-python-basico
 
-Projeto Desenvolve - Itabira; Introdução a Programação Web; PDITA109.
+Projeto Desenvolve - Itabira; Programação básica com Python; PDITA109.
