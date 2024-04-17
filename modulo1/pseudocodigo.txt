@@ -1,0 +1,7 @@
+1. Inicio;
+2. Leia n;
+3. dig1 = n-1;
+4. dig2 = 10-n;
+5. resp = (dig1 * 10) + dig2;
+6. retorna resp;
+7. Fim.

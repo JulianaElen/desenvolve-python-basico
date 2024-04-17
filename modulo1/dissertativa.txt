@@ -1,0 +1,5 @@
+1. Leia o valor de n que será multiplicado por 9 e armazene na variável n; #Entrada
+2. Faça a subtração de n-1 e armazene o valor na variável digito1; #Processamento
+3. Faça a subtração de 10-n e armazene o valor na variável digito2; #Processamento
+4. Multiplique a variável digito1 por 10, some com a variável digito2 e armazene na variável resposta; #Processamento
+5. Retorne a variável respostas. #saída
