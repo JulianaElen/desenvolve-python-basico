@@ -1,0 +1,27 @@
+- DECRITIVO -
+
+1 - Sobre a empresa
+
+UsiFerramentas, uma empresa que vende maquinas para a área industrial, como Fresadora, Torno, Centro de Usinagem CNC e demais maquinas.
+
+Os usuário do meu sistema são os gerentes e funcionarios da UsiFerramentas.
+
+2 - Sobre a Implementação
+
+Os arquivos de usuários e produtos foram estruturados em arquivos csv, formato de tabela. O primeiro tem as colunas id, nome, senha e permissao. Enquanto o segundo tem id, produto, preco e descricao.
+
+Funcionalidades para usuários: 
+Create: criarUsuario()
+Read: lerUsuarios() - realiza leitura de todos, mas também só dos gerentes, funcionarios ou por id.
+Update: editarUsuario()
+Delete: apagarUsuario():
+
+Funcionalidades para produtos: 
+Create: criarProduto():
+Read: lerProdutos(): - realiza a leitura de todos, mas também faz busca por id, ordenada por nome e por preço.
+Update: editarProduto()
+Delete: apagarProduto()
+
+3 - Comentários
+
+Eu adicionaria mais tratamentos de erros e colocaria os usuarios em um tipo de arquivo direfente que tivesse a possibilidade de armazenar aas informações de forma mais segura.
